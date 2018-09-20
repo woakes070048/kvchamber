@@ -1,0 +1,232 @@
+{
+    "extractors": {}, 
+    "id": "eb3a-4c24-b1a5", 
+    "name": "Mix Maine Marketing", 
+    "page_id": "", 
+    "page_type": "item", 
+    "plugins": {
+        "annotations-plugin": {
+            "extracts": [
+                {
+                    "annotations": {
+                        "#portia-content": "#dummy"
+                    }, 
+                    "container_id": null, 
+                    "id": "a908-4ded-90ef", 
+                    "item_container": true, 
+                    "repeated": false, 
+                    "required": [], 
+                    "schema_id": "3922-408a-91a4", 
+                    "selector": "#cb_tabid_24", 
+                    "siblings": 0, 
+                    "tagid": null, 
+                    "text-content": "#portia-content"
+                }, 
+                {
+                    "accept_selectors": [
+                        "#cb_tabid_24 > .cbFieldsContentsTab > div:nth-child(2) > .cb_field > div"
+                    ], 
+                    "container_id": "a908-4ded-90ef", 
+                    "data": {
+                        "918e-4b13-a79d": {
+                            "attribute": "content", 
+                            "extractors": {}, 
+                            "field": "03e5-492d-a3f9", 
+                            "required": false
+                        }
+                    }, 
+                    "id": "a6f6-4cc4-bb76", 
+                    "post_text": null, 
+                    "pre_text": null, 
+                    "reject_selectors": [], 
+                    "repeated": false, 
+                    "required": [], 
+                    "selection_mode": "auto", 
+                    "selector": "#cb_tabid_24 > .cbFieldsContentsTab > div:nth-child(2) > .cb_field > div", 
+                    "tagid": null, 
+                    "text-content": "content", 
+                    "xpath": "//*[@id=\"cb_tabid_24\"]/*[contains(concat(\" \", @class, \" \"), \" cbFieldsContentsTab \")]/div[2]/*[contains(concat(\" \", @class, \" \"), \" cb_field \")]/div"
+                }, 
+                {
+                    "accept_selectors": [
+                        "#cb_tabid_24 > .cbFieldsContentsTab > div:nth-child(3) > .cb_field > div"
+                    ], 
+                    "container_id": "a908-4ded-90ef", 
+                    "data": {
+                        "7d7b-4b35-975d": {
+                            "attribute": "content", 
+                            "extractors": {}, 
+                            "field": "5234-4026-93d7", 
+                            "required": false
+                        }
+                    }, 
+                    "id": "a67c-4442-8fdf", 
+                    "post_text": null, 
+                    "pre_text": null, 
+                    "reject_selectors": [], 
+                    "repeated": false, 
+                    "required": [], 
+                    "selection_mode": "css", 
+                    "selector": "#cb_tabid_24 > .cbFieldsContentsTab > div:nth-child(3) > .cb_field > div", 
+                    "tagid": null, 
+                    "text-content": "content", 
+                    "xpath": "//*[@id=\"cb_tabid_24\"]/*[contains(concat(\" \", @class, \" \"), \" cbFieldsContentsTab \")]/div[3]/*[contains(concat(\" \", @class, \" \"), \" cb_field \")]/div"
+                }, 
+                {
+                    "accept_selectors": [
+                        "#cb_tabid_24 > .cbFieldsContentsTab > div:nth-child(5) > .cb_field > div"
+                    ], 
+                    "container_id": "a908-4ded-90ef", 
+                    "data": {
+                        "073a-4935-9f5b": {
+                            "attribute": "content", 
+                            "extractors": {}, 
+                            "field": "8802-46b7-8979", 
+                            "required": false
+                        }
+                    }, 
+                    "id": "ef34-4429-aa0d", 
+                    "post_text": null, 
+                    "pre_text": null, 
+                    "reject_selectors": [], 
+                    "repeated": false, 
+                    "required": [], 
+                    "selection_mode": "css", 
+                    "selector": "#cb_tabid_24 > .cbFieldsContentsTab > div:nth-child(5) > .cb_field > div", 
+                    "tagid": null, 
+                    "text-content": "content", 
+                    "xpath": "//*[@id=\"cb_tabid_24\"]/*[contains(concat(\" \", @class, \" \"), \" cbFieldsContentsTab \")]/div[5]/*[contains(concat(\" \", @class, \" \"), \" cb_field \")]/div"
+                }, 
+                {
+                    "accept_selectors": [
+                        "#cb_tabid_24 > .cbFieldsContentsTab > div:nth-child(6) > .cb_field > div"
+                    ], 
+                    "container_id": "a908-4ded-90ef", 
+                    "data": {
+                        "4074-4013-8cd7": {
+                            "attribute": "content", 
+                            "extractors": {}, 
+                            "field": "fdd3-464b-b062", 
+                            "required": false
+                        }
+                    }, 
+                    "id": "7ff4-4be7-b96d", 
+                    "post_text": null, 
+                    "pre_text": null, 
+                    "reject_selectors": [], 
+                    "repeated": false, 
+                    "required": [], 
+                    "selection_mode": "css", 
+                    "selector": "#cb_tabid_24 > .cbFieldsContentsTab > div:nth-child(6) > .cb_field > div", 
+                    "tagid": null, 
+                    "text-content": "content", 
+                    "xpath": "//*[@id=\"cb_tabid_24\"]/*[contains(concat(\" \", @class, \" \"), \" cbFieldsContentsTab \")]/div[6]/*[contains(concat(\" \", @class, \" \"), \" cb_field \")]/div"
+                }, 
+                {
+                    "accept_selectors": [
+                        "#cb_tabid_24 > .cbFieldsContentsTab > div:nth-child(7) > .cb_field > div"
+                    ], 
+                    "container_id": "a908-4ded-90ef", 
+                    "data": {
+                        "6f1f-4dd0-8885": {
+                            "attribute": "content", 
+                            "extractors": {}, 
+                            "field": "f62d-4413-a5bf", 
+                            "required": false
+                        }
+                    }, 
+                    "id": "280d-4a77-ae18", 
+                    "post_text": null, 
+                    "pre_text": null, 
+                    "reject_selectors": [], 
+                    "repeated": false, 
+                    "required": [], 
+                    "selection_mode": "css", 
+                    "selector": "#cb_tabid_24 > .cbFieldsContentsTab > div:nth-child(7) > .cb_field > div", 
+                    "tagid": null, 
+                    "text-content": "content", 
+                    "xpath": "//*[@id=\"cb_tabid_24\"]/*[contains(concat(\" \", @class, \" \"), \" cbFieldsContentsTab \")]/div[7]/*[contains(concat(\" \", @class, \" \"), \" cb_field \")]/div"
+                }, 
+                {
+                    "accept_selectors": [
+                        "#cb_tabid_24 > .cbFieldsContentsTab > .cbft_emailaddress > .cb_field > div"
+                    ], 
+                    "container_id": "a908-4ded-90ef", 
+                    "data": {
+                        "9b12-4ee2-a6a3": {
+                            "attribute": "content", 
+                            "extractors": {}, 
+                            "field": "1e58-4e7e-b003", 
+                            "required": false
+                        }
+                    }, 
+                    "id": "34ea-4bfc-bec8", 
+                    "post_text": null, 
+                    "pre_text": null, 
+                    "reject_selectors": [], 
+                    "repeated": false, 
+                    "required": [], 
+                    "selection_mode": "css", 
+                    "selector": "#cb_tabid_24 > .cbFieldsContentsTab > .cbft_emailaddress > .cb_field > div", 
+                    "tagid": null, 
+                    "text-content": "content", 
+                    "xpath": "//*[@id=\"cb_tabid_24\"]/*[contains(concat(\" \", @class, \" \"), \" cbFieldsContentsTab \")]/*[contains(concat(\" \", @class, \" \"), \" cbft_emailaddress \")]/*[contains(concat(\" \", @class, \" \"), \" cb_field \")]/div"
+                }, 
+                {
+                    "accept_selectors": [
+                        "#cb_tabid_24 > .cbFieldsContentsTab > div:nth-child(9) > .cb_field > div"
+                    ], 
+                    "container_id": "a908-4ded-90ef", 
+                    "data": {
+                        "4d72-43f0-83fc": {
+                            "attribute": "content", 
+                            "extractors": {}, 
+                            "field": "1936-4f4b-b228", 
+                            "required": false
+                        }
+                    }, 
+                    "id": "9cff-4a2c-886f", 
+                    "post_text": null, 
+                    "pre_text": null, 
+                    "reject_selectors": [], 
+                    "repeated": false, 
+                    "required": [], 
+                    "selection_mode": "css", 
+                    "selector": "#cb_tabid_24 > .cbFieldsContentsTab > div:nth-child(9) > .cb_field > div", 
+                    "tagid": null, 
+                    "text-content": "content", 
+                    "xpath": "//*[@id=\"cb_tabid_24\"]/*[contains(concat(\" \", @class, \" \"), \" cbFieldsContentsTab \")]/div[9]/*[contains(concat(\" \", @class, \" \"), \" cb_field \")]/div"
+                }, 
+                {
+                    "accept_selectors": [
+                        "#cb_tabid_24 > .cbFieldsContentsTab"
+                    ], 
+                    "container_id": "a908-4ded-90ef", 
+                    "data": {
+                        "364f-44f2-b95b": {
+                            "attribute": "content", 
+                            "extractors": {}, 
+                            "field": "2399-4747-ac37", 
+                            "required": false
+                        }
+                    }, 
+                    "id": "49a6-4df4-8365", 
+                    "post_text": null, 
+                    "pre_text": null, 
+                    "reject_selectors": [], 
+                    "repeated": false, 
+                    "required": [], 
+                    "selection_mode": "css", 
+                    "selector": "#cb_tabid_24 > .cbFieldsContentsTab", 
+                    "tagid": null, 
+                    "text-content": "content", 
+                    "xpath": "//*[@id=\"cb_tabid_24\"]/*[contains(concat(\" \", @class, \" \"), \" cbFieldsContentsTab \")]"
+                }
+            ]
+        }
+    }, 
+    "scrapes": "3922-408a-91a4", 
+    "spider": "www.augustamaine.com", 
+    "url": "https://www.augustamaine.com/index.php/cb-profile/1357-mix-maine-marketing", 
+    "version": "0.13.1"
+}

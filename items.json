@@ -1,0 +1,70 @@
+{
+    "3922-408a-91a4": {
+        "fields": {
+            "ff01-4fc1-9424": {
+                "id": "ff01-4fc1-9424", 
+                "name": "Company", 
+                "required": false, 
+                "type": "text", 
+                "vary": false
+            }, 
+            "03e5-492d-a3f9": {
+                "id": "03e5-492d-a3f9", 
+                "name": "Business Name", 
+                "required": false, 
+                "type": "text", 
+                "vary": false
+            }, 
+            "5234-4026-93d7": {
+                "id": "5234-4026-93d7", 
+                "name": "Street Address", 
+                "required": true, 
+                "type": "text", 
+                "vary": false
+            }, 
+            "8802-46b7-8979": {
+                "id": "8802-46b7-8979", 
+                "name": "City", 
+                "required": false, 
+                "type": "text", 
+                "vary": false
+            }, 
+            "fdd3-464b-b062": {
+                "id": "fdd3-464b-b062", 
+                "name": "State", 
+                "required": false, 
+                "type": "text", 
+                "vary": false
+            }, 
+            "f62d-4413-a5bf": {
+                "id": "f62d-4413-a5bf", 
+                "name": "Zip", 
+                "required": false, 
+                "type": "text", 
+                "vary": false
+            }, 
+            "1e58-4e7e-b003": {
+                "id": "1e58-4e7e-b003", 
+                "name": "Email", 
+                "required": false, 
+                "type": "text", 
+                "vary": false
+            }, 
+            "1936-4f4b-b228": {
+                "id": "1936-4f4b-b228", 
+                "name": "Phone", 
+                "required": false, 
+                "type": "text", 
+                "vary": false
+            }, 
+            "2399-4747-ac37": {
+                "id": "2399-4747-ac37", 
+                "name": "Website", 
+                "required": false, 
+                "type": "text", 
+                "vary": false
+            }
+        }, 
+        "name": "Mix Maine Marketing"
+    }
+}
